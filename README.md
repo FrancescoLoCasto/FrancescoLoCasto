@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FrancescoLoCasto
 - 👀 I’m interested in Full stack web dev
-- 🌱 I’m currently learning to Boolean School 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning to Boolean School.
 - 📫 How to reach me on francesco_locasto01@libero.it
 
 <!---
